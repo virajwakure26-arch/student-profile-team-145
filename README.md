@@ -22,10 +22,10 @@ It showcases student profiles, technical skills and contact information.
 
 ## Team Members
 
-1. Student 1 – Team Lead
-2. Student 2 – Profile Developer
-3. Student 3 – Skills Developer
-4. Student 4 – Contact Developer
+1. Viraj Wakure – Team Lead
+2. Yash Rathod – Profile Developer
+3. Arjun Sharma – Skills Developer
+4. Sanchit Rasal – Contact Developer
 
 ## Collaboration
 
